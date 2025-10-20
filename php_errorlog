@@ -1,0 +1,11 @@
+[13-Aug-2025 05:32:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'muhammad' for key 'users.username' in /home/customer/www/rsoa142.planetearth.school/public_html/cnn clone/index.php:74
+Stack trace:
+#0 /home/customer/www/rsoa142.planetearth.school/public_html/cnn clone/index.php(74): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/customer/www/rsoa142.planetearth.school/public_html/cnn clone/index.php on line 74
+[13-Aug-2025 05:32:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'muhammad' for key 'users.username' in /home/customer/www/rsoa142.planetearth.school/public_html/cnn clone/index.php:74
+Stack trace:
+#0 /home/customer/www/rsoa142.planetearth.school/public_html/cnn clone/index.php(74): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/customer/www/rsoa142.planetearth.school/public_html/cnn clone/index.php on line 74
+ 
